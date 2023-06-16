@@ -3,6 +3,7 @@ body {
         nav {
             a {
                 color: black;
+                font-weight: bold;
                 text-decoration: none;
 
                 &:hover {
@@ -11,6 +12,7 @@ body {
             }
 
             select {
+                font-weight: bold;
                 border: none;
             }
 
@@ -50,8 +52,8 @@ body {
         }
 
         section.intro {
-            figure {
-                img {}
+            p {
+                font-weight: bold;
             }
         }
 
