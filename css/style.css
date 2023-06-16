@@ -9761,7 +9761,7 @@ body main section button {
   float: left;
   position: absolute;
   left: 61%;
-  bottom: 30%;
+  bottom: 20%;
   max-width: 750px;
 }
 body main section .btn-dark:hover {
@@ -9783,6 +9783,9 @@ body main section.products nav ul li a:hover {
   color: black;
   border-top: 2px solid black;
   border-bottom: 2px solid black;
+}
+body main section.products p {
+  margin: 25px;
 }
 body main section.products figcaption span {
   font-weight: bold;
